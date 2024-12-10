@@ -222,6 +222,6 @@ pytest -v --html=Html_Reports/my_report.html -n auto --browser headless
 
 
 6. command to check code coverage
-pytest -v --html=Html_Reports/my_report.html -n auto --browser headless --cov=testCases 
+pytest -v --alluredir="Allure_Reports"--html=Html_Reports/my_report.html -n auto --browser headless --cov=testCases 
 
 """
