@@ -1,0 +1,6 @@
+chrome headless browser started
+Email Credencetest@test.com1
+Password Credence@1231
+Expected login_fail
+User is not logged in
+Browser closed

@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","9739","test_CredKart_login_101[get_data_Credkart_login0]","testCases","Tue Dec 10 08:05:25 IST 2024","passed","Tue Dec 10 08:05:35 IST 2024","Test_7","test_Credkart_login_DDT_params","",""
+"","12638","test_CredKart_login_101[get_data_Credkart_login1]","testCases","Tue Dec 10 08:05:25 IST 2024","passed","Tue Dec 10 08:05:38 IST 2024","Test_7","test_Credkart_login_DDT_params","",""
+"","8107","test_CredKart_login_101[get_data_Credkart_login3]","testCases","Tue Dec 10 08:05:25 IST 2024","passed","Tue Dec 10 08:05:33 IST 2024","Test_7","test_Credkart_login_DDT_params","",""
+"","13740","test_CredKart_login_101[get_data_Credkart_login2]","testCases","Tue Dec 10 08:05:25 IST 2024","passed","Tue Dec 10 08:05:39 IST 2024","Test_7","test_Credkart_login_DDT_params","",""
