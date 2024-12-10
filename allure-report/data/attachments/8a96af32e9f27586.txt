@@ -1,6 +1,0 @@
-chrome headless browser started
-Email Credencetest@test.com
-Password Credence@123
-Expected login_pass
-User is logged in
-Browser closed
